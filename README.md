@@ -1,2 +1,2 @@
 # Projects
-Projects and assignments
+Details of projects and Assignments.
